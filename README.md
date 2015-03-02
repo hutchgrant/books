@@ -7,3 +7,7 @@ Introduction to Linux
 Introduction to HTML + CSS
 
 Introduction to PHP
+
+Introduction to PHP Encryption
+
+Introduction to PHP MySQL
