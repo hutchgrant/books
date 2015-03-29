@@ -15,3 +15,5 @@ Introduction to PHP MySQL
 Introduction to Integrated Development Environments
 
 Introduction to Bootstrap
+
+Introduction to Bootstrap Components
